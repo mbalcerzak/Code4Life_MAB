@@ -19,5 +19,4 @@ Goal: Based on attached data build a model that will classify headline types. Pr
  
 ## Task 3  
  
-Write a SQL query, in which you will retrieve the information about the students who scored a 4 and above on their algebra exam. Use the following tables
-
+Write a SQL query, in which you will retrieve the information about the students who scored a 4 and above on their algebra exam.
