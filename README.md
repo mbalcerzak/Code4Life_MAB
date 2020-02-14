@@ -22,3 +22,25 @@ What you need to provide for this task:
 # Task 3  
  
 Write a SQL query, in which you will retrieve the information about the students who scored a 4 and above on their algebra exam. Use the following tables
+
+table: students
+| student_id | name | surname | birth_date | faculty     |
+|------------|------|---------|------------|-------------|
+| 34577      | John | Peters  | 1993-02-15 | Mathematics |
+| 34578      | Kate | Smith   | 1992-10-29 | Economy     |
+
+table: exam_results
+| student_id | class_id | exam_date  | grade |
+|------------|----------|------------|-------|
+| 34577      | 6743     | 2019-06-19 | 2     |
+| 34577      | 2876     | 2019-06-06 | 3     |
+| 34578      | 6743     | 2019-06-19 | 4.5   |
+
+table: class_catalogue
+| class_id | class_name | professor_id | semester    |
+|----------|------------|--------------|-------------|
+| 6743     | algebra    | 4352         | 2019_summer |
+| 2876     | calculus   | 5325         | 2019_summer |
+| 3466     | statistics | 6253         | 2019_winter |
+
+
