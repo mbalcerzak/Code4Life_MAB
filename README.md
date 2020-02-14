@@ -1,5 +1,5 @@
-# Małgorzata Balcerzak
-## Roche Polska - Junior Data Science
+# Małgorzata Balcerzak  
+Roche Polska - Junior Data Science, Code4Life Academy
 
 ## Task 1  
 
