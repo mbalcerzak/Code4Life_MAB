@@ -1,4 +1,4 @@
-# Tasks: Roche Polska - Junior Data Science
+# Tasks: Roche Polska - Junior Data Scientist
 
 What you need to provide for this task:  
     1. The report (pdf/html/markdown) which includes the description of the model used.  
